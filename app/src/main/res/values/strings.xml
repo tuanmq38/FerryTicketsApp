@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FerryTicketsApp</string>
+    <string name="catalina_ferry_tickets">Catalina Ferry Tickets</string>
+    <string-array name="departures_array">
+        <item>Catalina Island</item>
+        <item>Long Beach</item>
+    </string-array>
+</resources>
